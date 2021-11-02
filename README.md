@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Ramki Pitchala</h1>
+### Hi there 👋 I'm Ramki Pitchala
 
 👨‍💻 View My Portfolio: [https://ramki-pitch.web.app/](https://ramki-pitch.web.app/)
 
