@@ -8,7 +8,6 @@ I am a Computer Science student at the University of Minnesota Twin Cities.
 
 ### 🔨 Latest Activity
 
-- Incoming Backend Intern @Robinhood
 - Tryna get swole
 - Getting back on track to pursue side projects
 
