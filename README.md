@@ -4,7 +4,7 @@
 
 📫 Connect: [ramapitchala@gmail.com](mailto:ramapitchala@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rama-krishna-pitchala/)
 
-I am a Computer Science student at the University of Minnesota Twin Cities.
+I am a new grad from the University of Minnesota Twin Cities.
 
 ### 🔨 Latest Activity
 
@@ -20,5 +20,4 @@ Thanks to [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📖 Next Learnings & Goals
 
-- Building with Crypto
-- Diving into Computer Vision
+- Building something people will use
